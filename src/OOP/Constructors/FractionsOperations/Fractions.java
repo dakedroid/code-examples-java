@@ -1,4 +1,4 @@
-package OOP.ConstructorsFractionsOperations;
+package OOP.Constructors.FractionsOperations;
 
 import javax.swing.JOptionPane;
 
